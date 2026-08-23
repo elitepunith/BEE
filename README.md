@@ -9,6 +9,10 @@ A 3D website using  Three.js !!
 3. Java script 
 4. three.js
 
+### Features 
+1. a mini portfolio !!
+2. 3 shapes 
+
 ### Preview 
 
 ![alt text](image.png)
